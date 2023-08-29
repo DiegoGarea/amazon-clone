@@ -4,11 +4,13 @@ This repository contains a simplified clone of the Amazon website built using HT
 
 <hr/>
 
-![html js css](https://github.com/DiegoGarea/Amazon-Clon-Project/assets/124759506/320455a6-982c-4e39-87f2-14202aec10dc)
+![html js css](https://github.com/DiegoGarea/amazon-clone/assets/124759506/d28848b4-f5ed-4c28-9087-e9ab137074bd)
+
 
 <hr/>
 
-![Amazon preview](https://github.com/DiegoGarea/Amazon-Clon-Project/assets/124759506/53438a08-3565-498b-a618-ae6676818825)
+![ammazon](https://github.com/DiegoGarea/amazon-clone/assets/124759506/ef884050-fb47-40d2-ab14-f45c108289b6)
+
 
 
 <hr/>
