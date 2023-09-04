@@ -6,6 +6,8 @@ import {formatCurrency} from './utils/money.js';
 
 let productsHTML = '';
 
+// console.log(JSON.stringify(products));
+
 products.forEach((product) => {
   productsHTML += `
   <div class="product-container">
