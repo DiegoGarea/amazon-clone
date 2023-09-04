@@ -48,14 +48,16 @@
 }
 
 @media (max-width: 575px) {
-  .amazon-logo {
-    display: none;
+  .amazon-header {
+    position: relative;
+    height: 120px;
+    align-items: flex-start;
   }
-
-  .amazon-mobile-logo {
-    display: block;
-    height: 35px;
-    margin-top: 5px;
+  .amazon-header-middle-section {
+    position: absolute;
+    top: 60px;
+    left: 0;
+    right: 0;
   }
 }
 
